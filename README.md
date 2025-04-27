@@ -26,7 +26,7 @@ I have created a interactive dashboard of employees working in an organization b
 4.	How does attrition vary across different salary ranges?
 5.	Does attrition occur more in early years of employment or later years?
 
-##Project insight
+## Project insight
 1.	Attrition rate is too high where most of the companies try to keep their attrition rate below 10%.
 2.	People from Life science and medical field background are the most common employees who left the organization.
 3.	The highest attrition rate is among the age group 26-35 
