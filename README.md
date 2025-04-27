@@ -1,7 +1,7 @@
 # HR-Analytics-dashboard-with-power-BI
 I have created a interactive dashboard of employees working in an organization by finding their average salary, attrition rate etc
 
-# I could not find the dataset for this dashboard which I created
+## I could not find the dataset for this dashboard which I created
 
 # Images of the dashboard I created 
 
